@@ -23,5 +23,5 @@ branches:
 
 env:
  global:
-   - GH_REF: github.com/AndroidUtil/androidutil.github.io.git
+   - GH_REF: github.com/AndroidKTX/androidktx.github.io.git
    
